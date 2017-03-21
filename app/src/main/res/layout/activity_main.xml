@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/FrameLayout01"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <SurfaceView android:id="@+id/SurfaceView01"
+        android:layout_width="wrap_content" android:layout_height="wrap_content">
+    </SurfaceView>
+
+
+    <com.flurgle.camerakit.CameraView
+        android:id="@+id/camera"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true" />
+
+
+    <ImageView
+        android:id="@+id/Button01"
+        android:layout_width="276dp"
+        android:layout_height="500dp"
+        android:layout_gravity="bottom|center"
+        android:text="@+id/Button01"></ImageView>
+    
+
+        
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="205dp"
+        android:layout_marginBottom="41dp"
+        android:layout_height="20dp"
+        android:layout_gravity="bottom|center"
+        android:backgroundTint="#000000"
+        android:progressTint="#0399f4"
+
+        />
+    <TextView
+        android:layout_width="32dp"
+        android:id="@+id/zero_meter"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="44dp"
+        android:text="0m"
+        android:textColor="#FFFFFF"
+        android:textSize="13sp"
+        android:layout_marginLeft="27.5dp"
+        android:nextFocusRight="@id/progressBar"/>
+    <TextView
+        android:layout_width="32dp"
+        android:textSize="13sp"
+        android:textColor="#FFFFFF"
+        android:id="@+id/twenty_meter"
+        android:text="20m"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="44dp"
+        android:layout_marginLeft="300dp"
+        android:nextFocusRight="@id/progressBar"/>
+
+    <TextView
+        android:id="@+id/timeTXT"
+        android:layout_width="match_parent"
+        android:background="@android:color/darker_gray"
+        android:textColor="@android:color/white"
+        android:textSize="56sp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_height="106dp"
+        android:text="TextView" />
+
+</FrameLayout>

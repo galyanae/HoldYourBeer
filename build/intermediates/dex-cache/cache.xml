@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\930321c30e0fa85237e0490c18cd8810cc89a3d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_4afb4f26dfda07d22da3c4782a87a5cfb5c7009a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\1808fe64e9601cb1f3e4ae950a6367641268bd02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_9f001af680a3d5e9ea8c05bdb84089d1114976d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\f5a09fae1f7190d8d713cd1e427d39db0f9646a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_50cfa0043008bb92f29707f00e3e2b23489d3196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\79f0eb96441f5f9a078013a4c4088e513b281a79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_44de6a050254bb5aafedddb2e2580d4d1365d7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\487c384db4fdd1ab4eba7bda2fcb931075a6c437\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_6667f07aeb63bb507c9ce0016669083bd87662ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\dbf6b7ec8d5577e84dc13c099355012abf0e5b41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_925fef13d0b2b1056595ecdb04cef548d6be6a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\147253f999c7fae3d42af7488e35e2cab6f96549\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_592152a074053004c5ba24102e6485afbf7a02df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\e865ca5c30506485153d9449bdd276a8e1ddb110\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_e8b2a52cdddeddc14bdc00394ee203b4f7df9234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.android\build-cache\011bba02fc6424c3f93f396d4d45c2485b17b5ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Owner\Desktop\ttttttt\HoldYourBeer2\app\build\intermediates\pre-dexed\release\classes_946491e225b54e620426b6278e22e363d93919af.jar" />
+    </item>
+
+</items>
